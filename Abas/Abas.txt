@@ -1,0 +1,1 @@
+Exempo de projeto Android que se utiliza de abas para navegação
